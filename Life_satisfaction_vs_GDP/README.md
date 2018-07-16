@@ -1,1 +1,1 @@
-In this directory,
+# Life Satisfaction vs. GDP per capita
