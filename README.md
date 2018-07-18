@@ -7,3 +7,4 @@ To complete each project, I mainly use Python and some useful libraries, such as
 
 - [Life Satisfaction vs. GDP per capita](https://github.com/hsuanhao/Projects/blob/master/Life_satisfaction_vs_GDP/README.md) (**Linear Regression**)
 - [Predicting sentiment from product reviews](https://github.com/hsuanhao/Projects/tree/master/Predicting%20sentiment%20from%20product%20reviews) (**logistic Regression**)
+- [Predicting house pricing in Seattle]
