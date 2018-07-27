@@ -1,4 +1,4 @@
-# Predicting the propensity to pay renewal premium and building an incentive plan for its agents to maximise the net revenue
+# Predicting the propensity to pay renewal premium and building an incentive plan for its agents to maximize the net revenue
 
 This is **McKinsey Analytics Online Hackathon**. [[link](https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-4/?utm_source=sendinblue&utm_campaign=Events_in_July_2018&utm_medium=email)] This even is hosted on AnalyticsVidhya in July 2018.
 
