@@ -1,6 +1,6 @@
 # Spelling Recommender
 
-In this project, I created three different spelling recommenders by implementing **nltk library in Python for natural language processing** and three distance metrics: **Jaccard distance on the trigrams of the two words**; **Jaccard distance on the 4-grams of the two words**; **Edit distance on the two words with transpositions**.
+In this project, I created spelling recommender by implementing **nltk library in Python for natural language processing** and distance metric, **Edit distance on the two words with transpositions**.
 
 
 ## How to run
