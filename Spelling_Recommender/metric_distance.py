@@ -42,48 +42,6 @@ def spelling_checker(words, correct_spellings):
         
     return correction
 
-def Jaccard_distance_trigrams(word, correct_spellings):
-    """
-    Jaccard_distance_trigrams: the function to calculate Jaccard distance on the trigrams of the two words
-    
-    input: 
-         word: word to examine
-         corect_spellings : list of correct words
-    output: 
-         trigrams : recommend correctly spelled words
-         dist : distance between word and trigrams
-    """
-    temp = []
-    for recommend in correct_spellings:
-        recommend = recommend.lower()
-        # Consider the word starting with the same letter as the examined word
-        if recommend[0] != word[0]: continue
-        distance = nltk.jaccard_distance(set(nltk.ngrams(word,n=3)),set(nltk.ngrams(recommend,n=3)))
-        temp.append( (recommend, distance) )  
-    trigrams, dist = sorted(temp, key= lambda x: x[1])[0]        
-    return trigrams, dist
-
-def Jaccard_distance_fourgrams(word, correct_spellings):
-    """
-    Jaccard_distance_fourgrams: the function to calculate Jaccard distance on the 4-grams of the two words
-    
-    input: 
-         word: word to examine
-         corect_spellings : list of correct words
-    output: 
-         fourgrams : recommend correctly spelled words
-         dist : distance between word and fourgrams
-    """
-    fourgrams = list()
-    temp = list()
-    for recommend in correct_spellings:
-        recommend = recommend.lower()
-        # Consider the word starting with the same letter as the examined word
-        if recommend[0] != word[0]: continue
-        distance = nltk.jaccard_distance(set(nltk.ngrams(word,n=4)),set(nltk.ngrams(recommend,n=4)))
-        temp.append( (recommend, distance) )  
-    fourgrams, dist = sorted(temp, key= lambda x: x[1])[0] 
-    return fourgrams, dist
 
 def edit_distance_trans(word, correct_spellings):
     """
