@@ -14,7 +14,6 @@ In this project, I created spelling recommender by implementing **nltk library i
 - metric_distance.py : Include functions to calculate distance between two words
 
 ## References
-- Jaccard distance on [Wiki](https://en.wikipedia.org/wiki/Jaccard_index).
 - Edit distance on the two words with transpositions on [Wiki](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance).
 
 
