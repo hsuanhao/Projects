@@ -23,4 +23,5 @@ In this project, I created three different spelling recommenders by implementing
 Python packages:
 
 - nltk = 3.3
+- re
 - jupyter notebook
