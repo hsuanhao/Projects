@@ -25,3 +25,4 @@ Python packages:
 - nltk = 3.3
 - re
 - jupyter notebook
+- Python 3
