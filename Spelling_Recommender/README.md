@@ -5,7 +5,7 @@ In this project, I created spelling recommender by implementing **nltk library i
 
 ## How to run
 - Save the text you want to check in test.txt
-- Run spelling_recommender.ipynb
+- Run [spelling_recommender.ipynb](https://github.com/hsuanhao/Projects/blob/master/Spelling_Recommender/spelling_recommender.ipynb)
 
 ## Files
 - test.txt : The text to check the spelling
