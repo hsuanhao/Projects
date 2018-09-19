@@ -7,3 +7,14 @@ In this project, we use data on house sales, located in Seattle, in King County 
 - Ridge Regression
 - LASSO to select features
 - k-nearest Neighbors Regression
+
+
+## Requirements
+
+Python packages:
+- Python3
+- Jupyter Notebook
+- Tensorflow
+- Pandas
+- Numpy
+- Matplotlib
