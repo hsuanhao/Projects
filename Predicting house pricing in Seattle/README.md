@@ -9,6 +9,10 @@ In this project, I used data on house sales, located in Seattle, in King County 
 5. LASSO to select features
 6. k-nearest Neighbors Regression
 
+## Datasets
+- kc_house_data.csv: whole data set
+- kc_house_test_data.csv: test set
+- kc_house_test_data.csv: training set
 
 ## Requirements
 
