@@ -2,7 +2,7 @@
 
 In this project, I used data on house sales, located in Seattle, in King County to predict house prices by implementing various models:
 
-1. Simple Linear Regression, including one feature only
+1. [Simple Linear Regression](https://github.com/hsuanhao/Projects/blob/master/Predicting%20house%20pricing%20in%20Seattle/Simple_Linear_Regression.ipynb), including one feature only
 2. Multiple Regression by using gradient descent algorithm
 3. Polynomial Regression
 4. Ridge Regression
