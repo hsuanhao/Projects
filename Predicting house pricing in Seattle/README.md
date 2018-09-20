@@ -1,6 +1,6 @@
 # Predicting house pricing in Seattle
 
-In this project, I implemented a learning algorithm "from scratch" by using a **Tensorflow** framework and coded them in **object oriented programming** as shown in . I used data on house sales, located in Seattle, in King County to predict house prices by implementing various models:
+In this project, I implemented a learning algorithm "from scratch" by using a **Tensorflow** framework and coded them in **object oriented programming** as shown in [LinearRegression.py](https://github.com/hsuanhao/Projects/blob/master/Predicting%20house%20pricing%20in%20Seattle/LinearRegression.py). I used data on house sales, located in Seattle, in King County to predict house prices by implementing various models:
 
 1. [Simple Linear Regression](https://github.com/hsuanhao/Projects/blob/master/Predicting%20house%20pricing%20in%20Seattle/Simple_Linear_Regression.ipynb), including one feature only
 2. Multiple Regression by using gradient descent algorithm
