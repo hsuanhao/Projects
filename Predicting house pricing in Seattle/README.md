@@ -23,3 +23,4 @@ Python packages:
 - Pandas
 - Numpy
 - Matplotlib
+- seaborn
