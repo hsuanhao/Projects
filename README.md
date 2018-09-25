@@ -6,8 +6,8 @@ To complete each project, I mainly use **Python**, **MySQL**, and some useful li
 
 
 - [Predicting sentiment from product reviews](https://github.com/hsuanhao/Projects/tree/master/Predicting%20sentiment%20from%20product%20reviews) (plan to do)
-- [Predicting house pricing in Seattle](https://github.com/hsuanhao/Projects/tree/master/Predicting%20house%20pricing%20in%20Seattle) (**Regression**, **Tensorflow**, **Object Oriented Programming**) (ongoing)
+- [Predicting house pricing in Seattle](https://github.com/hsuanhao/Projects/tree/master/Predicting%20house%20pricing%20in%20Seattle) (**Regression**, **Tensorflow**, **Object Oriented Programming**, **Python**) (ongoing)
 - [Studying Test Relationships from Dognition Database](https://github.com/hsuanhao/Projects/tree/master/Studying%20Test%20Relationships%20from%20Dognition%20Database) (**Queries by MySQL**) 
-- [Spelling Recommender](https://github.com/hsuanhao/Projects/tree/master/Spelling_Recommender) (**text mining, Natural Language Processing**)
-- [Predicting the propensity to pay renewal premium and building an incentive plan for its agents to maximise the net revenue (McKinsey Analytics Online Hackathon)](https://github.com/hsuanhao/Projects/tree/master/Predicting%20the%20propensity%20to%20pay%20renewal%20premium) (**Binary Classification**, **sckit-learn**)
-- [Life Satisfaction vs. GDP per capita](https://github.com/hsuanhao/Projects/tree/master/Life_satisfaction_vs_GDP) (**Linear Regression**, **sckit-learn**)
+- [Spelling Recommender](https://github.com/hsuanhao/Projects/tree/master/Spelling_Recommender) (**Natural Language Processing**, **Python**)
+- [Predicting the propensity to pay renewal premium and building an incentive plan for its agents to maximise the net revenue (McKinsey Analytics Online Hackathon)](https://github.com/hsuanhao/Projects/tree/master/Predicting%20the%20propensity%20to%20pay%20renewal%20premium) (**Binary Classification**, **sckit-learn**, **Python**)
+- [Life Satisfaction vs. GDP per capita](https://github.com/hsuanhao/Projects/tree/master/Life_satisfaction_vs_GDP) (**Linear Regression**, **sckit-learn**, **Python**)
