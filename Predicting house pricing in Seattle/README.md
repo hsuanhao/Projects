@@ -15,8 +15,8 @@ In this project, I implemented learning algorithms "from scratch" by using a **T
 - kc_house_test_data.csv: training set
 
 ## Files
-- Regression.py
-- 
+- Regression.py: library for linear regression with generalized features by gradient descent or closed form
+- FeatureProcessing.py: module including functions to rescale values of features or convert Pandas Dataframe to numpy array
 
 ## Requirements
 
