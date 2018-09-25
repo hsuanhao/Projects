@@ -14,6 +14,10 @@ In this project, I implemented learning algorithms "from scratch" by using a **T
 - kc_house_test_data.csv: test set
 - kc_house_test_data.csv: training set
 
+## Files
+- Regression.py
+- 
+
 ## Requirements
 
 Python packages:
