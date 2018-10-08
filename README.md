@@ -1,4 +1,4 @@
-# Projects
+# Selected Projects
 
 In this repository, I put data analysis projects I have done for real-world data by using different statistical models and algorithms in **machine learning** or **deep learning**. 
 
