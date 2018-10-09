@@ -10,6 +10,7 @@ In this project, I implemented learning algorithms "from scratch" by using a **T
 - **Cycle 6**. k-nearest Neighbors Regression
 
 ## Datasets
+Use data on house sales in King County, where Seattle is located.
 - kc_house_data.csv: whole data set
 - kc_house_test_data.csv: test set
 - kc_house_test_data.csv: training set
