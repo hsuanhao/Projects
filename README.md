@@ -10,5 +10,5 @@ To complete each project, I mainly use **Python**, **MySQL**, and some useful li
 - [Studying Test Relationships from Dognition Database](https://github.com/hsuanhao/Projects/tree/master/Studying%20Test%20Relationships%20from%20Dognition%20Database) (**Queries by MySQL**) 
 - [Spelling Recommender](https://github.com/hsuanhao/Projects/tree/master/Spelling_Recommender) (**Natural Language Processing**, **Python**)
 - [Predicting the propensity to pay renewal premium and building an incentive plan for its agents to maximise the net revenue (McKinsey Analytics Online Hackathon)](https://github.com/hsuanhao/Projects/tree/master/Predicting%20the%20propensity%20to%20pay%20renewal%20premium) (**Binary Classification**, **sckit-learn**, **Python**)
--Life Satisfaction vs. GDP per capita (**Linear Regression**, **sckit-learn**, **Python**)
+- Life Satisfaction vs. GDP per capita (**Linear Regression**, **sckit-learn**, **Python**)
 
