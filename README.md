@@ -12,3 +12,4 @@ To complete each project, I mainly use **Python**, **MySQL**, and some useful li
 - [Predicting the propensity to pay renewal premium and building an incentive plan for its agents to maximise the net revenue (McKinsey Analytics Online Hackathon)](https://github.com/hsuanhao/Projects/tree/master/Predicting%20the%20propensity%20to%20pay%20renewal%20premium) (**Binary Classification**, **sckit-learn**, **Python**)
 - Life Satisfaction vs. GDP per capita (**Linear Regression**, **sckit-learn**, **Python**)
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
