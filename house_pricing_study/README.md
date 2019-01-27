@@ -1,7 +1,7 @@
 # Study Whether Housing Prices Are Effected By Recessions
 
 
-**Hypothesis**: University towns have their mean housing prices less effected by recessions compared to non-university towns. I applied a **t-test** to compare the ratio of the mean price of houses in university towns the quarter before the recession starts compared to the recession bottom. (`price_ratio=quarter_before_recession/recession_bottom`)
+**Hypothesis**: University towns have their mean housing prices less effected by recessions compared to non-university towns. I applied a **t-test** to compare the ratio of the mean price of houses in university towns the quarter before the recession starts compared to the recession bottom as shown in [Study_house_pricing.ipynb](https://github.com/hsuanhao/Projects/blob/master/house_pricing_study/Study_house_pricing.ipynb). (`price_ratio=quarter_before_recession/recession_bottom`)
 
 
 **Definitions:**
