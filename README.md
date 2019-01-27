@@ -4,6 +4,7 @@ In this repository, I put selected data analysis projects I have done for real-w
 
 To complete each project, I mainly use **Python**, **MySQL**, and some useful libraries, such as **NumPy** (for vectorization calculation), **Pandas** (for data manipulation and analysis), **SciPy** (for scientific computing), **Matplotlib** (for plotting), **nltk** (for natural language processing), and **sckit-learn** (for machine learning). In addition, I implemented a learning algorithm "from scratch" by using a **Tensorflow** framework and coded them in **object oriented programming**.
 
+- [] (**Python**, **Hypothesis Testing**)
 - [Birth Study](https://github.com/hsuanhao/Projects/tree/master/Birth_Study) (**R**, **Hypothesis Testing**)
 - [Predicting sentiment from product reviews](https://github.com/hsuanhao/Projects/tree/master/Predicting%20sentiment%20from%20product%20reviews) (plan to do)
 - [Predicting house pricing in Seattle](https://github.com/hsuanhao/Projects/tree/master/Predicting%20house%20pricing%20in%20Seattle) (**Regression**, **Tensorflow**, **Object Oriented Programming**, **Python**) (ongoing)
