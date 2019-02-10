@@ -1,8 +1,8 @@
 # Selected Projects
 
-In this repository, I put selected data analysis projects I have done for real-world data by using different statistical models and algorithms in **machine learning** or **deep learning**. 
+In this repository, I put selected data analysis projects I have done for real-world data by using different **machine learning** or **deep learning models** as well as **hypothesis testing**. 
 
-To complete each project, I mainly use **R**, **MySQL**, **Python**, and some useful libraries in Python, such as **NumPy** (for vectorization calculation), **Pandas** (for data manipulation and analysis), **SciPy** (for scientific computing), **Matplotlib** (for plotting), **nltk** (for natural language processing), and **sckit-learn** (for machine learning). In addition, I implemented a learning algorithm "from scratch" by using a **Tensorflow** framework and coded them in **object oriented programming**.
+To complete each project, I mainly use **R**, **MySQL**, or **Python**, and some useful libraries in Python, such as **NumPy** (for vectorization calculation), **Pandas** (for data manipulation and analysis), **SciPy** (for scientific computing), **Matplotlib** (for plotting), **nltk** (for natural language processing), and **sckit-learn** (for machine learning). In addition, I implemented a learning algorithm "from scratch" by using a **Tensorflow** framework and coded them in **object oriented programming**.
 
 - [Predicting sentiment from product reviews](https://github.com/hsuanhao/Projects/tree/master/Predicting%20sentiment%20from%20product%20reviews) (plan to do)
 - [Predicting house pricing in Seattle](https://github.com/hsuanhao/Projects/tree/master/Predicting%20house%20pricing%20in%20Seattle) (**Regression**, **Tensorflow**, **Object Oriented Programming**, **Python**) (ongoing)
