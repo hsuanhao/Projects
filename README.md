@@ -9,7 +9,7 @@ To complete each project, I mainly use **R**, **MySQL**, **Python**, and some us
 - [Predicting sentiment from product reviews](https://github.com/hsuanhao/Projects/tree/master/Predicting%20sentiment%20from%20product%20reviews) (plan to do)
 - [Predicting house pricing in Seattle](https://github.com/hsuanhao/Projects/tree/master/Predicting%20house%20pricing%20in%20Seattle) (**Regression**, **Tensorflow**, **Object Oriented Programming**, **Python**) (ongoing)
 - [Studying Test Relationships from Dognition Database](https://github.com/hsuanhao/Projects/tree/master/Studying%20Test%20Relationships%20from%20Dognition%20Database) (**Queries by MySQL**, **Database Modeling**) 
-- [Spelling Recommender](https://github.com/hsuanhao/Projects/tree/master/Spelling_Recommender) (**Natural Language Processing**,**NLTK**, **Python**)
+- [Spelling Recommender](https://github.com/hsuanhao/Projects/tree/master/Spelling_Recommender) (**Natural Language Processing**, **NLTK**, **Python**)
 - [Predicting the propensity to pay renewal premium and building an incentive plan for its agents to maximise the net revenue (McKinsey Analytics Online Hackathon)](https://github.com/hsuanhao/Projects/tree/master/Predicting%20the%20propensity%20to%20pay%20renewal%20premium) (**Binary Classification**, **sckit-learn**, **Python**)
 
 
