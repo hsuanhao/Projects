@@ -31,3 +31,4 @@ Python packages:
 - Numpy
 - Matplotlib
 - seaborn
+- statsmodels
