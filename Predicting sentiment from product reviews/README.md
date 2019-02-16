@@ -4,6 +4,6 @@ I used data from product review on Amazon.com to predict whether the sentiments 
 
 In this project, I implemented two different feature vectorizations: **bag of words** and **TFIDF**. In the end, I calculated the area under the receiver operating characteristic curve (ROC AUC) on test dataset for these two models summarized below:
 
-|  bag of words | TFIDF   |
-|--------------|----------|
-| 0.9498       | 0.9642   |
+|       | bag of words |  TFIDF   |
+|-------|--------------|----------|
+|  AUC  | 0.9498       | 0.9642   |
