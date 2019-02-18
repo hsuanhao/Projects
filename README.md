@@ -6,7 +6,7 @@ To complete each project, I mainly use **R**, **MySQL**, or **Python**, and some
 
 - [Predicting house pricing in Seattle](https://github.com/hsuanhao/Projects/tree/master/Predicting%20house%20pricing%20in%20Seattle) (**Regression**, **Tensorflow**, **Object Oriented Programming**, **hypothesis testing**, **Python**) (ongoing)
 - [Predicting sentiment from product reviews](https://github.com/hsuanhao/Projects/tree/master/Predicting%20sentiment%20from%20product%20reviews) (**Binary Classification**, **Text Mining**, **sckit-learn**, **Python**)
-- [House Price Study](https://github.com/hsuanhao/Projects/tree/master/house_pricing_study) (**Python**, **Hypothesis Testing**)
+- [Study Whether Housing Prices Are Effected By Recessions](https://github.com/hsuanhao/Projects/tree/master/house_pricing_study) (**Python**, **Hypothesis Testing**)
 - [Birth Study](https://github.com/hsuanhao/Projects/tree/master/Birth_Study) (**R**, **Hypothesis Testing**)
 - [Studying Test Relationships from Dognition Database](https://github.com/hsuanhao/Projects/tree/master/Studying%20Test%20Relationships%20from%20Dognition%20Database) (**Queries by MySQL**, **Database Modeling**) 
 - [Spelling Recommender](https://github.com/hsuanhao/Projects/tree/master/Spelling_Recommender) (**Natural Language Processing**, **NLTK**, **Python**)
