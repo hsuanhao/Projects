@@ -4,9 +4,9 @@ In this repository, I put selected data analysis projects I have done for real-w
 
 To complete each project, I mainly use **R**, **MySQL**, or **Python**, and some useful libraries in Python, such as **NumPy** (for vectorization calculation), **Pandas** (for data manipulation and analysis), **SciPy** (for scientific computing), **Matplotlib** and **Seaborn** (for visualization), **nltk** (for natural language processing), and **sckit-learn** (for machine learning). In addition, I implemented a learning algorithm "from scratch" by using a **Tensorflow** framework and coded them in **object oriented programming**.
 
-- [Predicting house pricing in Seattle](https://github.com/hsuanhao/Projects/tree/master/Predicting%20house%20pricing%20in%20Seattle) - *Market*  (**Regression**, **Tensorflow**, **Object Oriented Programming**, **hypothesis testing**, **Python**) (ongoing)
+- [Predicting house pricing in Seattle](https://github.com/hsuanhao/Projects/tree/master/Predicting%20house%20pricing%20in%20Seattle) - *Marketing*  (**Regression**, **Tensorflow**, **Object Oriented Programming**, **hypothesis testing**, **Python**) (ongoing)
 - [Predicting sentiment from product reviews](https://github.com/hsuanhao/Projects/tree/master/Predicting%20sentiment%20from%20product%20reviews) (**Binary Classification**, **Text Mining**, **sckit-learn**, **Python**)
-- [Study Whether Housing Prices Are Effected By Recessions](https://github.com/hsuanhao/Projects/tree/master/house_pricing_study) - *Market* (**Python**, **Hypothesis Testing**)
+- [Study Whether Housing Prices Are Effected By Recessions](https://github.com/hsuanhao/Projects/tree/master/house_pricing_study) - *Marketing* (**Python**, **Hypothesis Testing**)
 - [Birth Study](https://github.com/hsuanhao/Projects/tree/master/Birth_Study) (**R**, **Hypothesis Testing**)
 - [Studying Test Relationships from Dognition Database](https://github.com/hsuanhao/Projects/tree/master/Studying%20Test%20Relationships%20from%20Dognition%20Database) (**Queries by MySQL**, **Database Modeling**) 
 - [Spelling Recommender](https://github.com/hsuanhao/Projects/tree/master/Spelling_Recommender) - *Product* (**Natural Language Processing**, **NLTK**, **Python**)
