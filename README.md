@@ -11,7 +11,7 @@ To complete each project, I mainly use **R**, **MySQL**, or **Python**, and some
 - [Studying Test Relationships from Dognition Database](https://github.com/hsuanhao/Projects/tree/master/Studying%20Test%20Relationships%20from%20Dognition%20Database) (**Queries by MySQL**, **Database Modeling**) 
 - [Spelling Recommender](https://github.com/hsuanhao/Projects/tree/master/Spelling_Recommender) - *Product* (**Natural Language Processing**, **NLTK**, **Python**)
 
-- [Predicting the propensity to pay renewal premium and building an incentive plan for its agents to maximise the net revenue (McKinsey Analytics Online Hackathon)](https://github.com/hsuanhao/Projects/tree/master/Predicting%20the%20propensity%20to%20pay%20renewal%20premium) -*sales and marketing* (**Binary Classification**, **sckit-learn**, **Python**)
+- [Predicting the propensity to pay renewal premium and building an incentive plan for its agents to maximise the net revenue (McKinsey Analytics Online Hackathon)](https://github.com/hsuanhao/Projects/tree/master/Predicting%20the%20propensity%20to%20pay%20renewal%20premium) - *sales and marketing* (**Binary Classification**, **sckit-learn**, **Python**)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Hsuan-Hao Fan</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
