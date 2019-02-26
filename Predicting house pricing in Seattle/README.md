@@ -5,8 +5,7 @@ In this project, I used data on house sales, located in Seattle, in King County 
 I implemented learning algorithms "from scratch" by using a **Tensorflow** framework and coded them in **object oriented programming** as shown in [Regression.py](https://github.com/hsuanhao/Projects/blob/master/Predicting%20house%20pricing%20in%20Seattle/Regression.py) for *simple linear regression* and *multiple regression*. Also, I implemented `statsmodels` library to compare results I obtained from my own codes and do statistical inference.
 
 - **Cycle 1**. [Simple Linear Regression](https://github.com/hsuanhao/Projects/blob/master/Predicting%20house%20pricing%20in%20Seattle/Simple_Linear_Regression.ipynb), including one feature only
-   - I have found that the relation between house price and size of house is non-linear,
-  $$ \ln ( \text{price} )= 12.207 + 0.403 \times \frac{\text{sqft_living}}{1000} \Rightarrow \text{price} = \exp \left[12.207 + 0.403 \times \frac{\text{sqft_living}}{1000} \right].$$
+   - I have found that the relation between house price and size of house is non-linear. I used the best linear model I obtained to make prediction and obtained the residual sum of squared (RSS) on test data is $2.704 \times 10^{14}$.
 
    - In order to improve the prediction accuracy, we can try multiple linear regression next. To do so, we can use forward selection to find out the parsimonious model, which is the simplest model with the highest predictive power.
    
