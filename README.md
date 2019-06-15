@@ -4,7 +4,7 @@ In this repository, I put selected data analysis projects I have done for real-w
 
 To complete each project, I mainly use **R**, **MySQL**, or **Python**, and some useful libraries in Python, such as **NumPy** (a library for working with arrays of data), **Pandas** (a library for providing high-performance, easy-to-use data structures and data analysis tools), **SciPy** (a library of techniques for numerical and scientific computing), **Matplotlib** (a library for making graphs) and **Seaborn** (a higher-level interface to Matplotlib that can be used to simplify many graphing tasks), **Statsmodels** (a library that implements many statistical techniques), **nltk** (for natural language processing), and **sckit-learn** (for machine learning). In addition, I implemented a learning algorithm "from scratch" by using a **Tensorflow** framework and coded them in **object oriented programming**.
 
--[DNA Sequences Analysis]()(**Text Mining**, **Python**)
+- [DNA Sequences Analysis]()(**Text Mining**, **Python**)
 
 - [Predicting house pricing in Seattle](https://github.com/hsuanhao/Projects/tree/master/Predicting%20house%20pricing%20in%20Seattle) - *sales and marketing* (**Regression**, **Tensorflow**, **Object Oriented Programming**, **hypothesis testing**, **Python**) (ongoing)
 - [Regression analysis with National Health and Nutrition Examination Survey data](https://github.com/hsuanhao/Projects/tree/master/Regression_analysis_with_NHANES) - *health science* (**Regression Analysis**, **statsmodels**, **hypothesis testing**, **Python**)
