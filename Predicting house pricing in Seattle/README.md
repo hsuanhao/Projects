@@ -10,10 +10,7 @@ I implemented learning algorithms "from scratch" by using a **Tensorflow** frame
    - In order to improve the prediction accuracy, we can try multiple linear regression next. To do so, we can use forward selection to find out the parsimonious model, which is the simplest model with the highest predictive power.
    
 - **Cycle 2**. Multiple Regression by using [closed form](https://github.com/hsuanhao/Projects/blob/master/Predicting%20house%20pricing%20in%20Seattle/Multiple_Regression_Closed_Form.ipynb) and [gradient descent algorithm](https://github.com/hsuanhao/Projects/blob/master/Predicting%20house%20pricing%20in%20Seattle/Simple_or_Multiple_Regression_GradientDescent.ipynb) (*Correcting*)
-- **Cycle 3**. Polynomial Regression
-- **Cycle 4**. Ridge Regression
-- **Cycle 5**. LASSO to select features
-- **Cycle 6**. k-nearest Neighbors Regression
+
 
 ## Datasets
 Use data on house sales in King County, where Seattle is located.
