@@ -6,7 +6,7 @@ To complete each project, I mainly use **R**, **MySQL**, or **Python**, and some
 
 - [DNA Sequences Analysis](https://github.com/hsuanhao/Projects/tree/master/DNA_Sequences_Analysis) - *Genomatics* (**Text Mining**, **Algorithm**, **Python**)
 
-- [Predicting house pricing in Seattle](https://github.com/hsuanhao/Projects/tree/master/Predicting%20house%20pricing%20in%20Seattle) - *sales and marketing* (**Regression**, **Tensorflow**, **Object Oriented Programming**, **hypothesis testing**, **Python**) (ongoing)
+- [Predicting house pricing in Seattle](https://github.com/hsuanhao/Projects/tree/master/Predicting%20house%20pricing%20in%20Seattle) - *sales and marketing* (**Regression**, **Tensorflow**, **Object Oriented Programming**, **hypothesis testing**, **Python**) 
 - [Regression analysis with National Health and Nutrition Examination Survey data](https://github.com/hsuanhao/Projects/tree/master/Regression_analysis_with_NHANES) - *health science* (**Regression Analysis**, **statsmodels**, **hypothesis testing**, **Python**)
 - [Predicting sentiment from product reviews](https://github.com/hsuanhao/Projects/tree/master/Predicting%20sentiment%20from%20product%20reviews) - *sales* (**Binary Classification**, **Text Mining**, **sckit-learn**, **Python**)
 - [Study Whether Housing Prices Are Effected By Recessions](https://github.com/hsuanhao/Projects/tree/master/house_pricing_study) - *marketing* (**Python**, **Hypothesis Testing**)
